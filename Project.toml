@@ -1,0 +1,4 @@
+name = "RMI"
+uuid = "972fd468-f086-4b00-9882-82a5b09ef3a4"
+authors = ["Cris Moen <54078289+cristophermoen@users.noreply.github.com>"]
+version = "0.1.0"
